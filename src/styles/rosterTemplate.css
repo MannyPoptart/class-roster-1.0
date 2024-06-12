@@ -38,7 +38,7 @@ main {
   min-width: 30ch;
   border: 0.5rem solid black;
   border-radius: 15px;
-  background-color: lavender;
+  background-color: lavenderblush;
   text-align: center;
 }
 
@@ -56,6 +56,10 @@ main {
 
 .card ul li {
   padding-bottom: 1rem;
+}
+
+.card figcaption {
+  font-size: 12pt
 }
 
   
